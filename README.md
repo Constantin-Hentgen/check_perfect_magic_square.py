@@ -1,0 +1,1 @@
+# check_perfect_magic_square.py
